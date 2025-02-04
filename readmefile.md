@@ -1,13 +1,12 @@
-# Homework 7
+# Homework 7 Readme generator
 ## Description
-This code generates a readme file
+The user will answer serveral questions create a readme based on the information they input.  
 
 
 ## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Test](#test)
 - [License](#license)
 - [License](#license)
 ## Installation
