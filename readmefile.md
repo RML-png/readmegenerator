@@ -1,8 +1,6 @@
 # Homework 7
 ## Description
-This code generates a readme file
-
-
+This code generates a readme file by the user answering questions about their code.  
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -15,7 +13,16 @@ run node to start program.
 
 
 ## Usage
-to show how to generate a readme file
+The user will be able to generate a readme file for their code. 
+The user will ask the following questions.
+"Enter Project Title:"
+"Enter Project Installation instruction:"
+"Enter Project Usage information:"
+"Enter Project Contribution Guidelines:"
+"Enter Project Test :"
+"Enter Project License :"
+"Enter Email:"
+
 
 ## Badges
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -23,7 +30,7 @@ to show how to generate a readme file
 
 
 ## How to Contribute
-instructior google, and tutoring
+instructiors,  google, and tutoring.
 
 ## Tests
 readme generator
